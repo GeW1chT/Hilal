@@ -1,0 +1,8 @@
+﻿  experimentLines.cpp
+C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\experimentLines.cpp(64,65): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\experimentLines.cpp(64,21): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\experimentLines.cpp(65,73): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\experimentLines.cpp(65,21): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\experimentLines.cpp(113,7): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\experimentLines.cpp(114,7): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ExperimentLines.vcxproj -> C:\Users\desir\OneDrive\Masaüstü\Ders\OKUL\1.DÖNEM\grafik\hilal\ExperimentLines\Debug\ExperimentLines.exe
